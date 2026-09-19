@@ -30,7 +30,7 @@ Publish the contents of `dist/` on a static website host. Keep the relative fold
 
 ## Current content
 
-The site contains 43 unique project films and 19 photos. Five photo thumbnails are shown initially, with additional batches of five. Both customer reviews link to their project media in the on-site viewers.
+The site contains 43 unique project films and 20 photos. Five photo thumbnails are shown initially, with additional batches of five. Both customer reviews link to their project media in the on-site viewers.
 
 Before a business launch, add confirmed contact information and the specific service area, review the concept labels, and remove the `noindex,nofollow` robots directive when the site is ready for search engines.
 

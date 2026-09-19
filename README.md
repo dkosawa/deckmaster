@@ -1,6 +1,6 @@
 # The Deck Master
 
-Business website for Erik of Dahlberg Construction LLC, a Pacific Northwest deck builder.
+Business website for Erik of Dahlberg Construction LLC, a deck builder serving all of Portland Metro.
 
 ## Run locally
 
@@ -32,7 +32,7 @@ Publish the contents of `dist/` on a static website host. Keep the relative fold
 
 The site contains 43 unique project films and 20 photos. Five photo thumbnails are shown initially, with additional batches of five. Both customer reviews link to their project media in the on-site viewers.
 
-Before a business launch, add confirmed contact information and the specific service area, review the concept labels, and remove the `noindex,nofollow` robots directive when the site is ready for search engines.
+The website includes Erik’s phone and email at the top, middle, and bottom. Public-facing concept labels and unfinished service-area placeholders have been removed, and the page no longer blocks search indexing. The confirmed service area is all of Portland Metro.
 
 ## Assets
 

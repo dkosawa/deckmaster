@@ -1,5 +1,17 @@
 # Pavilion deck illustration
 
+## Erik on the phone
+
+Final hand revision (built-in ImageGen): Precise localized edit of the supplied watercolor illustration. Change ONLY the man's LEFT hand, the free gesturing hand on the RIGHT SIDE OF THE IMAGE, into a clear friendly SHAKA / hang-loose gesture: thumb and pinky extended outward, index middle and ring fingers folded naturally into the palm. Keep the same wrist location and forearm pose, natural correct left-hand anatomy. Preserve everything else exactly: the man's recognizable face, small smile, facial proportions, glasses, cap, gray shirt, phone and right hand holding it on the left side of the image, framing, white paper background and watercolor style. Do not redraw or alter the face. No text or extra objects.
+
+Created with the built-in ImageGen tool using the user-supplied photograph `IMG_2499.jpg` as the identity reference. Website asset: `dist/art/erik-phone-shaka.webp`. This is an imagined watercolor scene of Erik on the phone. The original private reference photograph is not included in the repository.
+
+Final prompt:
+
+Use case: identity-preserve, watercolor illustration. The attached photograph is the authoritative identity reference for Erik. Create an ink-and-watercolor drawing of THIS EXACT MAN having an animated friendly conversation on a mobile phone. Likeness is the highest priority: carefully preserve his actual broad face, rounded chin, nose shape, thin upper lip, characteristic small slightly asymmetric smile, cheek creases and smile lines, lightly stubbled jaw, large dark rectangular glasses, and baseball cap. Do not substitute a generic handsome carpenter, narrow his jaw, grow a full beard, change his age, or exaggerate his smile into a broad toothy grin. Keep his face near-frontal as in the photo to preserve recognition, with the same gentle smile and attentive eyes. Change the pose to upright, holding one smartphone to an ear, other hand lifted in a lively conversational open-palm gesture. Retain the charcoal-gray short-sleeve collared work shirt with its two chest pockets from the photograph. Waist-up portrait, complete cap and both hands inside frame, natural anatomy. Delicate fine pen contours, translucent watercolor pigment, subtle paper texture and loose blue/green washes fading irregularly into clean white at all edges, matching a refined craftsman website's watercolor illustrations. Face should be closely observed and realistic beneath the watercolor treatment. Sparse background, no text or speech bubbles, no logos or watermark. Portrait 4:5.
+
+---
+
 Generated using the built-in ImageGen tool on September 19, 2026.
 
 - Photo supplied by the user: `IMG_9122.jpeg`.

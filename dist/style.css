@@ -139,3 +139,12 @@ footer.business-footer{display:flex;flex-direction:column;align-items:center;gap
 .footer-contact{justify-content:center;color:var(--blue)}
 @media(max-width:1000px){.header-contact{justify-content:center;margin-top:8px}}
 @media(max-width:600px){.header-contact{gap:0 16px}.contact-band{padding:32px 6%}.contact-band .contact-links,.footer-contact{flex-direction:column;gap:0}.footer-contact{align-items:center}}
+
+/* Erik brings the same illustrated personality to the contact section. */
+.contact-band{display:grid;grid-template-columns:minmax(0,1fr) minmax(220px,340px);gap:32px;padding-block:30px}
+.contact-copy{min-width:0}
+.contact-copy .contact-links{margin-top:20px}
+.contact-art{width:100%;max-width:340px;justify-self:center;mix-blend-mode:multiply}
+.contact-art img{width:100%;height:auto}
+@media(max-width:600px){.contact-band{grid-template-columns:1fr;gap:20px;padding-block:32px}.contact-art{max-width:260px}.contact-copy .contact-links{margin-top:14px}}
+@media(max-width:600px){.preview span:last-child{white-space:normal;text-align:right}}

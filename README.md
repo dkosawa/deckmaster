@@ -19,9 +19,9 @@ Open http://localhost:5173. No dependency installation or build step is required
 - `dist/script.js` and `dist/videos.js`: project films and the video player.
 - `dist/gallery.js`: photo viewer and the five-at-a-time photo gallery.
 - `dist/gallery/`: full-size web photos and smaller thumbnails.
-- `dist/art/`: watercolor illustrations, frames, and retained artwork variants.
-- `dist/fonts/`: local fonts and their license.
-- `content/`: photo and video metadata. The HTML photo gallery and video JavaScript are the rendered content; editing metadata alone does not regenerate them.
+- `dist/art/`: original watercolor illustrations and frames.
+- `dist/fonts/`: original locally hosted fonts.
+- `recovery-manifest.json`: download provenance and SHA-256 hashes for the recovered site. Paths in this manifest are relative to `dist/`.
 - `preview.mjs` and `responsive-check.html`: local preview server and responsive-layout check page.
 
 ## Hosting
@@ -36,4 +36,10 @@ Before a business launch, add confirmed contact information and the specific ser
 
 ## Assets
 
-Photos and testimonials were supplied for this website. Illustrations were created for this website. This repository does not grant a general license to reuse the business content or artwork. The bundled font has its own license in `dist/fonts/OFL.txt`.
+Photos and testimonials were supplied for this website. Illustrations were created for this website. This repository does not grant a general license to reuse the business content or artwork.
+
+## Source recovery
+
+On September 19, 2026, the complete browser-delivered static site was recovered from https://dahlberg-deck-master-demo.lush-tang-8711.chatgpt.site/ into `dist/`: 57 files, including all 19 photos and thumbnails, original artwork and fonts, and all 43 video entries. CSS, JavaScript, images, and fonts are unchanged from the served originals. Only the hosting provider's injected Cloudflare challenge was removed from the HTML.
+
+YouTube videos and thumbnails remain externally hosted, as in the original website. This recovery does not include former repository history or unused source assets. The older root-level HTML/CSS/JavaScript files are retained for history; `dist/` is the current website.

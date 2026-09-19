@@ -1,0 +1,348 @@
+{
+  "origin": "https://dahlberg-deck-master-demo.lush-tang-8711.chatgpt.site/",
+  "recoveredAt": "2026-09-19T16:21:22.172Z",
+  "files": [
+    {
+      "file": "index.html",
+      "bytes": 20664,
+      "remoteSha256": "eada477e29113f435e60bf052e88fe23d5212a77388c2526d6cbf895223704ee",
+      "localSha256": "2d340f35f077c3f1119d2b8547b8d6125edfee3ad4efc8a63a3a5ae09fec8a52"
+    },
+    {
+      "file": "style.css",
+      "bytes": 23450,
+      "remoteSha256": "55ebed8fd0ca483be82e4daf93f342395a7fa4d5785dbe6f9bbd42ec42a3fa82",
+      "localSha256": "55ebed8fd0ca483be82e4daf93f342395a7fa4d5785dbe6f9bbd42ec42a3fa82"
+    },
+    {
+      "file": "art/watercolor-saw-board.webp",
+      "bytes": 414446,
+      "remoteSha256": "a7ac87224bd8837cec6b05e1893d489be749f65bb0799634852c2624c23e5dee",
+      "localSha256": "a7ac87224bd8837cec6b05e1893d489be749f65bb0799634852c2624c23e5dee"
+    },
+    {
+      "file": "art/photo-jump-sketch.webp",
+      "bytes": 517330,
+      "remoteSha256": "6e349fd3c8e2a62f2849304780559148649e5f75a0b56bbf596f1a5a573c7438",
+      "localSha256": "6e349fd3c8e2a62f2849304780559148649e5f75a0b56bbf596f1a5a573c7438"
+    },
+    {
+      "file": "art/photo-saw-sketch.webp",
+      "bytes": 393874,
+      "remoteSha256": "1034fd28065cdd654f7189d2cbf6ca78e8f2f8f25d100af03e2b6db714a51909",
+      "localSha256": "1034fd28065cdd654f7189d2cbf6ca78e8f2f8f25d100af03e2b6db714a51909"
+    },
+    {
+      "file": "art/watercolor-deck-inlay.webp",
+      "bytes": 426252,
+      "remoteSha256": "59794e5033a0b795b0d32f4dc88767e3cc14574155e9435dcc40da55ca1cbc10",
+      "localSha256": "59794e5033a0b795b0d32f4dc88767e3cc14574155e9435dcc40da55ca1cbc10"
+    },
+    {
+      "file": "gallery/deck-evening.webp",
+      "bytes": 286738,
+      "remoteSha256": "f1feb5b81329b436bc6d616d90676a41fb822f51342be883ac235f5741fa4d7c",
+      "localSha256": "f1feb5b81329b436bc6d616d90676a41fb822f51342be883ac235f5741fa4d7c"
+    },
+    {
+      "file": "gallery/deck-evening-thumb.webp",
+      "bytes": 67318,
+      "remoteSha256": "79bbf5844fb3a35a5a8746c911458f577dca76bd3eb3940be042bdadc4bd4dcf",
+      "localSha256": "79bbf5844fb3a35a5a8746c911458f577dca76bd3eb3940be042bdadc4bd4dcf"
+    },
+    {
+      "file": "gallery/deck-01.webp",
+      "bytes": 658176,
+      "remoteSha256": "1397dfe560f62b2e98d002bed778bf34928d51df8a2ae365de4e0e523aa58ab1",
+      "localSha256": "1397dfe560f62b2e98d002bed778bf34928d51df8a2ae365de4e0e523aa58ab1"
+    },
+    {
+      "file": "gallery/deck-01-thumb.webp",
+      "bytes": 98462,
+      "remoteSha256": "207c8c78d3b91d3f837e2ad8ef5e361eb43493df988c1745720ae7a727006db8",
+      "localSha256": "207c8c78d3b91d3f837e2ad8ef5e361eb43493df988c1745720ae7a727006db8"
+    },
+    {
+      "file": "gallery/deck-02.webp",
+      "bytes": 545564,
+      "remoteSha256": "76bd4f23e9fb85f44c620f722f0c259d7e971c4868fe9f8fa1a8c94464d44a00",
+      "localSha256": "76bd4f23e9fb85f44c620f722f0c259d7e971c4868fe9f8fa1a8c94464d44a00"
+    },
+    {
+      "file": "gallery/deck-02-thumb.webp",
+      "bytes": 84386,
+      "remoteSha256": "1cf076932f40709086aa4379749b1c129e61d6b60b754eebe16caeaaafe822b7",
+      "localSha256": "1cf076932f40709086aa4379749b1c129e61d6b60b754eebe16caeaaafe822b7"
+    },
+    {
+      "file": "gallery/deck-03.webp",
+      "bytes": 671998,
+      "remoteSha256": "08870aaa1966ee225cfc11adb386cd45227c6c678a05e83d881fc2893682167b",
+      "localSha256": "08870aaa1966ee225cfc11adb386cd45227c6c678a05e83d881fc2893682167b"
+    },
+    {
+      "file": "gallery/deck-03-thumb.webp",
+      "bytes": 99048,
+      "remoteSha256": "fd0ca5214c25c32dfa14bcb00d28ffc3b71e6c961b73e47b8a497a82fee5ec63",
+      "localSha256": "fd0ca5214c25c32dfa14bcb00d28ffc3b71e6c961b73e47b8a497a82fee5ec63"
+    },
+    {
+      "file": "gallery/deck-04.webp",
+      "bytes": 634270,
+      "remoteSha256": "6ddc903770c8d1c5ce20eddddd7b091998ab9c765b2b9810c0e088a24552ea8e",
+      "localSha256": "6ddc903770c8d1c5ce20eddddd7b091998ab9c765b2b9810c0e088a24552ea8e"
+    },
+    {
+      "file": "gallery/deck-04-thumb.webp",
+      "bytes": 101188,
+      "remoteSha256": "c95b92fa6da91120a43fb97283b5b420f79779cf161a7186d3fbd5c9997d0e12",
+      "localSha256": "c95b92fa6da91120a43fb97283b5b420f79779cf161a7186d3fbd5c9997d0e12"
+    },
+    {
+      "file": "gallery/deck-05.webp",
+      "bytes": 561066,
+      "remoteSha256": "6bb0e3fb088dc8589fcd9ac14af5ebf158458a96931472f77c017949875e5408",
+      "localSha256": "6bb0e3fb088dc8589fcd9ac14af5ebf158458a96931472f77c017949875e5408"
+    },
+    {
+      "file": "gallery/deck-05-thumb.webp",
+      "bytes": 92316,
+      "remoteSha256": "a01426aafb25974d65141ad5c2193dadcb244d26ed146762dffc618766e0d18d",
+      "localSha256": "a01426aafb25974d65141ad5c2193dadcb244d26ed146762dffc618766e0d18d"
+    },
+    {
+      "file": "gallery/deck-06.webp",
+      "bytes": 710372,
+      "remoteSha256": "7af9b58214b49fae50dfa0553c9d1c1bf36361c42f0bac4b7b3e1c6ae7597135",
+      "localSha256": "7af9b58214b49fae50dfa0553c9d1c1bf36361c42f0bac4b7b3e1c6ae7597135"
+    },
+    {
+      "file": "gallery/deck-06-thumb.webp",
+      "bytes": 96078,
+      "remoteSha256": "5f0f02f2d4257d884f7eb15a7c24884230e4f018037768304e0b0bdabdebba16",
+      "localSha256": "5f0f02f2d4257d884f7eb15a7c24884230e4f018037768304e0b0bdabdebba16"
+    },
+    {
+      "file": "gallery/deck-07.webp",
+      "bytes": 279208,
+      "remoteSha256": "fae55f5943d705d7e447c2d0fd6235292df739b129fb4d8dd0014da178eb854a",
+      "localSha256": "fae55f5943d705d7e447c2d0fd6235292df739b129fb4d8dd0014da178eb854a"
+    },
+    {
+      "file": "gallery/deck-07-thumb.webp",
+      "bytes": 39540,
+      "remoteSha256": "fa10c1fcba84227f1efba04c38b9dd773ad0bfaab8d522d32fc5be12a97618dd",
+      "localSha256": "fa10c1fcba84227f1efba04c38b9dd773ad0bfaab8d522d32fc5be12a97618dd"
+    },
+    {
+      "file": "gallery/deck-08.webp",
+      "bytes": 635266,
+      "remoteSha256": "e00826fd7e467c77f8397c3916e8384fd03acbcf25e7624b841805e6ac683983",
+      "localSha256": "e00826fd7e467c77f8397c3916e8384fd03acbcf25e7624b841805e6ac683983"
+    },
+    {
+      "file": "gallery/deck-08-thumb.webp",
+      "bytes": 91604,
+      "remoteSha256": "586fd36374f48f3b1d1e1a6b14ab565b929314143d1b043296f406a9e4b68936",
+      "localSha256": "586fd36374f48f3b1d1e1a6b14ab565b929314143d1b043296f406a9e4b68936"
+    },
+    {
+      "file": "gallery/deck-09.webp",
+      "bytes": 322418,
+      "remoteSha256": "2382244c26c0592443909850f5f3f76b5165bc806f487c1ba87046c876b6eabf",
+      "localSha256": "2382244c26c0592443909850f5f3f76b5165bc806f487c1ba87046c876b6eabf"
+    },
+    {
+      "file": "gallery/deck-09-thumb.webp",
+      "bytes": 55550,
+      "remoteSha256": "d2fac06ea15847e0d54db91b5be3cb86f1a70b6d5d39cdd516ef4730eb10d69b",
+      "localSha256": "d2fac06ea15847e0d54db91b5be3cb86f1a70b6d5d39cdd516ef4730eb10d69b"
+    },
+    {
+      "file": "gallery/deck-10.webp",
+      "bytes": 694676,
+      "remoteSha256": "b0b43763de7aded8e7f36f74fc7d921291e38fcd3a53f219d1566fafde12d5c6",
+      "localSha256": "b0b43763de7aded8e7f36f74fc7d921291e38fcd3a53f219d1566fafde12d5c6"
+    },
+    {
+      "file": "gallery/deck-10-thumb.webp",
+      "bytes": 100046,
+      "remoteSha256": "b1a28868b93ebf4ddac28dd885a23413c3954815f99338109710087f1461ca89",
+      "localSha256": "b1a28868b93ebf4ddac28dd885a23413c3954815f99338109710087f1461ca89"
+    },
+    {
+      "file": "gallery/deck-11.webp",
+      "bytes": 454306,
+      "remoteSha256": "0ccc2678181bb5a9c6129bebb28af04b9f07dbafbe5dd5a47f9f12b65d55624e",
+      "localSha256": "0ccc2678181bb5a9c6129bebb28af04b9f07dbafbe5dd5a47f9f12b65d55624e"
+    },
+    {
+      "file": "gallery/deck-11-thumb.webp",
+      "bytes": 71696,
+      "remoteSha256": "2e6941635ceecfad67169b2f65923f24cefad65fbc7f1ab6107500fc44c0c063",
+      "localSha256": "2e6941635ceecfad67169b2f65923f24cefad65fbc7f1ab6107500fc44c0c063"
+    },
+    {
+      "file": "gallery/deck-12.webp",
+      "bytes": 336846,
+      "remoteSha256": "7ef298204cfe00c777395565bd7a625bb618c52d93c7de091f31f2438743d7e1",
+      "localSha256": "7ef298204cfe00c777395565bd7a625bb618c52d93c7de091f31f2438743d7e1"
+    },
+    {
+      "file": "gallery/deck-12-thumb.webp",
+      "bytes": 51416,
+      "remoteSha256": "ef1b3a10e0709aca38a5984cef5554af4cca19d5a8ba30ea245ff9b8855a7710",
+      "localSha256": "ef1b3a10e0709aca38a5984cef5554af4cca19d5a8ba30ea245ff9b8855a7710"
+    },
+    {
+      "file": "gallery/deck-13.webp",
+      "bytes": 778090,
+      "remoteSha256": "543c052f92198689a9c1704e9459f5f491744419b5f864022e590d54bfb28dee",
+      "localSha256": "543c052f92198689a9c1704e9459f5f491744419b5f864022e590d54bfb28dee"
+    },
+    {
+      "file": "gallery/deck-13-thumb.webp",
+      "bytes": 122280,
+      "remoteSha256": "3bca9d5fcabe1a8d9ce96f19918edd3a8582751b13958ba3e2bcce6e9618c677",
+      "localSha256": "3bca9d5fcabe1a8d9ce96f19918edd3a8582751b13958ba3e2bcce6e9618c677"
+    },
+    {
+      "file": "gallery/deck-14.webp",
+      "bytes": 484602,
+      "remoteSha256": "3362cac8fb642c374b63e21e9ee5a63fd3635af2fce59c995a75d4c9306e683f",
+      "localSha256": "3362cac8fb642c374b63e21e9ee5a63fd3635af2fce59c995a75d4c9306e683f"
+    },
+    {
+      "file": "gallery/deck-14-thumb.webp",
+      "bytes": 86908,
+      "remoteSha256": "9feabd42fbd5c0df028525488e58048f6e67e372c0eaa333ce95129ac70094d4",
+      "localSha256": "9feabd42fbd5c0df028525488e58048f6e67e372c0eaa333ce95129ac70094d4"
+    },
+    {
+      "file": "gallery/deck-15.webp",
+      "bytes": 244778,
+      "remoteSha256": "02c2cab2c9b71114606243540720cc8abc535e38f22da3beeecf3db0bff5f53d",
+      "localSha256": "02c2cab2c9b71114606243540720cc8abc535e38f22da3beeecf3db0bff5f53d"
+    },
+    {
+      "file": "gallery/deck-15-thumb.webp",
+      "bytes": 36662,
+      "remoteSha256": "7d4485f8e1d18d8d0a8d4a3de307d82a8d09a9328f51680c85827e5b8dcdf128",
+      "localSha256": "7d4485f8e1d18d8d0a8d4a3de307d82a8d09a9328f51680c85827e5b8dcdf128"
+    },
+    {
+      "file": "gallery/deck-16.webp",
+      "bytes": 299122,
+      "remoteSha256": "5fa729942a6038302037739ab37acceda4ecd13d00728f4aaa62612f25e4387d",
+      "localSha256": "5fa729942a6038302037739ab37acceda4ecd13d00728f4aaa62612f25e4387d"
+    },
+    {
+      "file": "gallery/deck-16-thumb.webp",
+      "bytes": 48520,
+      "remoteSha256": "d9585158567b68d8e9c468ebec3ef3d34cc748112a3754ac9b113444a8386963",
+      "localSha256": "d9585158567b68d8e9c468ebec3ef3d34cc748112a3754ac9b113444a8386963"
+    },
+    {
+      "file": "gallery/deck-17.webp",
+      "bytes": 417288,
+      "remoteSha256": "40a6373847e4776cddbd70c010a875207f45fb81c54590d8a1e1f238900c524a",
+      "localSha256": "40a6373847e4776cddbd70c010a875207f45fb81c54590d8a1e1f238900c524a"
+    },
+    {
+      "file": "gallery/deck-17-thumb.webp",
+      "bytes": 61182,
+      "remoteSha256": "d925d7df888f8f194aef006c4f3e4aeadd0b263888cb6fd1fd74a88fbc16d9cb",
+      "localSha256": "d925d7df888f8f194aef006c4f3e4aeadd0b263888cb6fd1fd74a88fbc16d9cb"
+    },
+    {
+      "file": "gallery/deck-18.webp",
+      "bytes": 141274,
+      "remoteSha256": "dd61f68b4a1602a8abd1ae8d77c8a31d08daafb10ec986e6ca90c9145611fec2",
+      "localSha256": "dd61f68b4a1602a8abd1ae8d77c8a31d08daafb10ec986e6ca90c9145611fec2"
+    },
+    {
+      "file": "gallery/deck-18-thumb.webp",
+      "bytes": 45900,
+      "remoteSha256": "814e86af730de5934db8150f764adb28537b2e9751c06747e95521db1b1f9f12",
+      "localSha256": "814e86af730de5934db8150f764adb28537b2e9751c06747e95521db1b1f9f12"
+    },
+    {
+      "file": "art/photo-measure-sketch.webp",
+      "bytes": 509628,
+      "remoteSha256": "f149f055a5ed1b7a99f69809b5b04732865987ec5cfcf70d2753d0eb8e26dcfe",
+      "localSha256": "f149f055a5ed1b7a99f69809b5b04732865987ec5cfcf70d2753d0eb8e26dcfe"
+    },
+    {
+      "file": "art/photo-group-sketch.webp",
+      "bytes": 525366,
+      "remoteSha256": "f5297112079bae163feb7ddfadaef5bbbd822c96a9650f3d289f77c5691e18ab",
+      "localSha256": "f5297112079bae163feb7ddfadaef5bbbd822c96a9650f3d289f77c5691e18ab"
+    },
+    {
+      "file": "art/watercolor-deck-stairs.webp",
+      "bytes": 443114,
+      "remoteSha256": "31825ba5abb2ccb9b2f01e045140574d44eedf7ffe66af266b057518dc1348d1",
+      "localSha256": "31825ba5abb2ccb9b2f01e045140574d44eedf7ffe66af266b057518dc1348d1"
+    },
+    {
+      "file": "art/photo-footer-watercolor.webp",
+      "bytes": 548188,
+      "remoteSha256": "f14c8174ad25b84428aef9837d86aaf72a7be7319af961d886cce030a013523f",
+      "localSha256": "f14c8174ad25b84428aef9837d86aaf72a7be7319af961d886cce030a013523f"
+    },
+    {
+      "file": "videos.js",
+      "bytes": 7766,
+      "remoteSha256": "406c9741ae116ffe2a3f4ae1e0564ac96066cd02afedf5a2bd4198810404e496",
+      "localSha256": "406c9741ae116ffe2a3f4ae1e0564ac96066cd02afedf5a2bd4198810404e496"
+    },
+    {
+      "file": "script.js",
+      "bytes": 3889,
+      "remoteSha256": "91924ee85edd4f525d5e1eef223e718bd467168ee0218393f480a158c4acec29",
+      "localSha256": "91924ee85edd4f525d5e1eef223e718bd467168ee0218393f480a158c4acec29"
+    },
+    {
+      "file": "gallery.js",
+      "bytes": 2517,
+      "remoteSha256": "511fbbc28049c5850fdd7c65dfc65ffca53b235a6fc6b8d84d93c4c030fd3785",
+      "localSha256": "511fbbc28049c5850fdd7c65dfc65ffca53b235a6fc6b8d84d93c4c030fd3785"
+    },
+    {
+      "file": "fonts/bricolage-400.ttf",
+      "bytes": 82192,
+      "remoteSha256": "b56db40c26850f83ba2ebffa1f7faa01e5ee4e55ac63decee1433de520a38483",
+      "localSha256": "b56db40c26850f83ba2ebffa1f7faa01e5ee4e55ac63decee1433de520a38483"
+    },
+    {
+      "file": "fonts/bricolage-600.ttf",
+      "bytes": 82304,
+      "remoteSha256": "284891c74c258cff7233962e048d9470bfb9fc326b53dd0bca408789297c3409",
+      "localSha256": "284891c74c258cff7233962e048d9470bfb9fc326b53dd0bca408789297c3409"
+    },
+    {
+      "file": "fonts/bricolage-700.ttf",
+      "bytes": 82204,
+      "remoteSha256": "913ee3631949ee1b4fb2601269412fca5775eb994d4f87be2c366c94ac123dc5",
+      "localSha256": "913ee3631949ee1b4fb2601269412fca5775eb994d4f87be2c366c94ac123dc5"
+    },
+    {
+      "file": "fonts/bricolage-800.ttf",
+      "bytes": 82332,
+      "remoteSha256": "50fe1039eb3ff208d027a4867d3f53bd288bba76273a718578f7b3ec0feec388",
+      "localSha256": "50fe1039eb3ff208d027a4867d3f53bd288bba76273a718578f7b3ec0feec388"
+    },
+    {
+      "file": "art/watercolor-plank-frame.webp",
+      "bytes": 468936,
+      "remoteSha256": "6b5cc927e2bd05e780cef62340ec96cdd27b9638eb212f3d5411b6b6e7ca0b3b",
+      "localSha256": "6b5cc927e2bd05e780cef62340ec96cdd27b9638eb212f3d5411b6b6e7ca0b3b"
+    },
+    {
+      "file": "art/watercolor-cedar-photo-frame.webp",
+      "bytes": 126794,
+      "remoteSha256": "55197d24c9ae5097eb9a7a4091f4dac20fb7e9f97d0e0df0168050859d90ab89",
+      "localSha256": "55197d24c9ae5097eb9a7a4091f4dac20fb7e9f97d0e0df0168050859d90ab89"
+    }
+  ]
+}
